@@ -12,6 +12,7 @@ Global Insure processes thousands of insurance claims every year, with a notable
 Develop a machine learning model that accurately classifies insurance claims as either fraudulent or legitimate, based on historical data such as claim amount, customer demographics, and claim types.
 
 **Features**
+
 Data preprocessing and feature engineering
 Exploratory Data Analysis (EDA)
 Model training and evaluation
